@@ -3,5 +3,7 @@
 2. Open Assets/SpaceDemo.scene
 
 3. Push play button to launch Game scene
-   WASD: Up/Left/Down/Right
-   Space: Fire missile
+
+5. Control:
+   W/A/S/D -> Up/Left/Down/Right
+   Space -> Fire missile
