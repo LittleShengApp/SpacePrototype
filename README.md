@@ -4,6 +4,6 @@
 
 3. Push play button to launch Game scene
 
-5. Control:
-   W/A/S/D -> Up/Left/Down/Right
-   Space -> Fire missile
+4. W/A/S/D -> Up/Left/Down/Right
+
+5. Space -> Fire missile
