@@ -1,3 +1,4 @@
+Step:
 1. Launch UnityHub to open "SpacePrototype" folder
 
 2. Open Assets/SpaceDemo.scene
@@ -8,12 +9,12 @@
 
 5. Space -> Fire missile
 
-Assets resource links:
-1. Star Sparrow Modular Spaceship
+Assets resource links
+1. Star Sparrow Modular Spaceship:<br/>
 https://assetstore.unity.com/packages/3d/vehicles/space/star-sparrow-modular-spaceship-73167
 
-2. Asteroids Pack: 
+2. Asteroids Pack:<br/>
 https://assetstore.unity.com/packages/3d/environments/asteroids-pack-84988
 
-3. Rockets, Missiles & Bombs - Cartoon Low Poly Pack: 
+3. Rockets, Missiles & Bombs - Cartoon Low Poly Pack:<br/>
 https://assetstore.unity.com/packages/3d/props/weapons/rockets-missiles-bombs-cartoon-low-poly-pack-73141
